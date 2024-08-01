@@ -4,7 +4,6 @@ def is_even(number):
     else:
         return False
 
-# Example usage
 num = int(input("Enter a number: "))
 if is_even(num):
     print(num, "is an even number.")
